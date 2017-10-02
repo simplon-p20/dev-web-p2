@@ -30,13 +30,16 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 * accueil.
 * présentation de la formation.
 * atelier installation de Linux.
-* découvrir sa maison.
-* se présenter.
+* découvrir sa maison sur [pottermore](https://www.pottermore.com/).
+* se présenter :
+  * en groupe avec [slides](https://slides.com/).
+  * en 3min, 1min, 20s : http://philippedouale.com/secrets-presentation-efficace/
 * se familiariser avec les commandes Unix : http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html.
 * point de fin de journée.
 
 ### Jour 2 - 3 octobre
 
+* se familiariser avec les commandes Unix.
 * se familiariser avec GitHub.
 
 ### Jour 3 - 4 octobre
