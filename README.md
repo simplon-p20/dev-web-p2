@@ -1,5 +1,18 @@
 # Développeur.se web - Promo 2
 
+## Organisation de la journée
+
+* 9h30 : arrivée
+* 9h30-9h40 : café, démarrage des ordis
+* 9h40 : début du travail
+* 11h : pause du matin
+* 11h10 : reprise
+* 12h30 : pause déjeuner
+* 13h30 : reprise
+* 15h30 : pause de l'après-midi
+* 15h40 : reprise
+* 17h30 : fin de la journée
+
 ## Déroulé de la formation
 
 La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 phases avec une période de stage :
