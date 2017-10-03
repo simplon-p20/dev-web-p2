@@ -1,5 +1,7 @@
 # Développeur.se web - Promo 2
 
+trombinoscope : https://github.com/simplon-p20/dev-web-p2/projects/1
+
 ## Organisation de la journée
 
 * 9h30 : arrivée
