@@ -42,13 +42,16 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 ### Jour 2 - 3 octobre
 
 * se familiariser avec les commandes Unix : http://juliend.github.io/linux-cheatsheet/.
-* se familiariser avec GitHub.
+* se familiariser avec GitHub et le markdown : forker, cloner, modifier, commiter, pusher [username.github.io](https://github.com/simplon-p20/username.github.io).
+* démarrer son site perso avec Jekyll.
 
 ### Jour 3 - 4 octobre
 
-* se familiariser avec HTML/CSS.
-* réaliser son site perso avec Jekyll.
-* réaliser un formulaire côté front.
+* se familiariser avec HTML/CSS :
+  * des projets pour s'entrainer : https://thimble.mozilla.org/fr/.
+  * un site de référence : https://www.w3schools.com/.
+  * un site de référence en français : https://developer.mozilla.org/fr/.
+* réaliser un formulaire côté front en utilisant [formspree](https://formspree.io/).
 
 ### Jour 4 - 5 octobre
 
