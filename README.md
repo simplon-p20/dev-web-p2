@@ -42,8 +42,8 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 ### Jour 2 - 3 octobre
 
 * se familiariser avec les commandes Unix : http://juliend.github.io/linux-cheatsheet/.
-* se familiariser avec GitHub et le markdown : forker, cloner, modifier, commiter, pusher [username.github.io](https://github.com/simplon-p20/username.github.io).
-* démarrer son site perso avec Jekyll.
+* se familiariser avec GitHub et le [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) : forker, cloner, modifier, commiter et pusher le dépôt [username.github.io](https://github.com/simplon-p20/username.github.io).
+* démarrer son site perso avec [Jekyll](https://jekyllrb.com/) : [qu'est-ce qu'un site Jekyll ?](http://jekyllrb.com/tutorials/convert-site-to-jekyll/#what-is-a-jekyll-website)
 
 ### Jour 3 - 4 octobre
 
@@ -51,18 +51,23 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
   * des projets pour s'entrainer : https://thimble.mozilla.org/fr/.
   * un site de référence : https://www.w3schools.com/.
   * un site de référence en français : https://developer.mozilla.org/fr/.
-* réaliser un formulaire côté front en utilisant [formspree](https://formspree.io/).
+* ajouter un formulaire "front-only" à son site perso avec [formspree](https://formspree.io/).
 
 ### Jour 4 - 5 octobre
 
-* les unités CSS.
-* les sélecteurs CSS.
-* le pré-processeur SASS.
+* les unités CSS : https://www.lullabot.com/articles/unexpected-power-of-viewport-units-in-css
+* les sélecteurs CSS :
+  * en s'amusant avec [CSS diner](https://flukeout.github.io/).
+  * en lisant la [doc sur w3schools](https://www.w3schools.com/cssref/css_selectors.asp).
+  * en lisant la [doc sur MDN](https://developer.mozilla.org/fr/docs/Glossaire/S%C3%A9lecteur_CSS).
+* le pré-processeur [SASS](http://sass-lang.com/) :
+  * [installation](http://sass-lang.com/install).
+  * [les principales fonctionnalités](http://sass-lang.com/guide).
+  * [la doc complète](http://sass-lang.com/documentation/file.SASS_REFERENCE.html).
 
 ### Jour 5 - 6 octobre
 
 * flexbox.
-* grille CSS.
 * media queries.
 * review/retrospective de la semaine.
 
