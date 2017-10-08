@@ -30,7 +30,7 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 ### Jour 1 - 2 octobre
 
 * accueil.
-* présentation de la formation.
+* présentation de la formation, comment elle s'inscrit dans la ["web developer roadmap"](https://github.com/kamranahmedse/developer-roadmap).
 * atelier installation de Linux.
 * découvrir sa maison sur [pottermore](https://www.pottermore.com/).
 * se présenter :
@@ -67,8 +67,11 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 
 ### Jour 5 - 6 octobre
 
-* flexbox.
-* media queries.
+* flexbox :
+  * en s'amusant avec [flexbox froggy](http://flexboxfroggy.com/).
+  * [avec les media queries](https://github.com/simplon-p20/html-basic-layout). 
+* complément de lecture sur les media queries : [l'article d'alsacréations](https://www.alsacreations.com/article/lire/930-css3-media-queries.html).
+* un outil pour faire sa veille : [feedly](https://feedly.com/i/welcome).
 * review/retrospective de la semaine.
 
 ### Jour 6 à 9 - 9 octobre -> 12 octobre
