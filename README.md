@@ -76,21 +76,28 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 
 ### Jour 6 à 9 - 9 octobre -> 12 octobre
 
-* fashion week : la semaine du style.
+* fashion week : la semaine du style. 4 groupes pour 4 outils de "dessin" et 4 frameworks css sur 4 jours : chaque jour chaque groupe reproduit la page d'accueil de [airbnb](https://www.airbnb.fr/), d'abord sous forme "dessinée", puis à l'aide d'un framework css, et produit de la documentation pour les jours suivants ; chaque jour, les groupes tournent et découvrent de nouveaux outils. 
+  * [canva](https://www.canva.com/) et [bootstrap](http://getbootstrap.com/).
+  * [balsamiq](https://balsamiq.com/index.html) et [foundation](https://foundation.zurb.com/).
+  * [wireframe.cc](https://wireframe.cc/) et [materialize](http://materializecss.com/).
+  * papier + crayon et [semantic ui](https://semantic-ui.com/).
 
 ### Jour 10 - 13 octobre
 
 * bilan et intégration des acquis.
+* présentation [parcours d'une maquette web](https://fr.slideshare.net/tetue/du-zoning-au-mockup-itinraire-dune-maquette-web?qid=942a5328-3f07-41a2-afd5-0b235688ee3f&v=&b=&from_search=1).
 * review/retrospective de la semaine.
 
 ### Jour 11 - 16 octobre
 
-* la recette du quatre quarts.
-* extension firefox.
+* la recette du quatre quarts : initiation à l'algorithmie.
+* formation à l'animation d'atelier.
 
 ### Jour 11 à 15 - 17 octobre -> 20 octobre
 
-* développement JS.
+* développement JS :
+  * les bases.
+  * extensions firefox.
 
 ## Phase 2 : PHP/MySQL (23 octobre -> 1er décembre)
 
