@@ -84,14 +84,25 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 
 ### Jour 10 - 13 octobre
 
-* bilan et intégration des acquis.
-* présentation [parcours d'une maquette web](https://fr.slideshare.net/tetue/du-zoning-au-mockup-itinraire-dune-maquette-web?qid=942a5328-3f07-41a2-afd5-0b235688ee3f&v=&b=&from_search=1).
+* bilan et intégration des acquis :
+  * présentation [parcours d'une maquette web](https://fr.slideshare.net/tetue/du-zoning-au-mockup-itinraire-dune-maquette-web?qid=942a5328-3f07-41a2-afd5-0b235688ee3f&v=&b=&from_search=1).
+  * maquetter et créer sa landing page.
+  * intégrer un framework css.
 * review/retrospective de la semaine.
 
 ### Jour 11 - 16 octobre
 
-* la recette du quatre quarts : initiation à l'algorithmie.
-* formation à l'animation d'atelier.
+* la recette du quatre quarts :
+  * définition d'un algorithme, et mise en pratique *à la main* de [l'algorithme d'Euclide](https://github.com/simplon-p20/algo-euclide).
+  * démonstration en groupe avec des cartes d'algorithmes de tri :
+    * [Tri stupide](https://fr.wikipedia.org/wiki/Tri_stupide).
+    * [Tri par insertion](https://fr.wikipedia.org/wiki/Tri_par_insertion).
+    * [Tri à bulles](https://fr.wikipedia.org/wiki/Tri_%C3%A0_bulles).
+    * [Tri rapide](https://fr.wikipedia.org/wiki/Tri_rapide).
+    * D'autres algorithmes, et leur comparaison sur [wikipedia](https://fr.wikipedia.org/wiki/Algorithme_de_tri#Comparaison_des_algorithmes).
+* formation à l'animation d'atelier :
+  * [Hour of code](https://studio.code.org/courses).
+  * [Scratch](https://scratch.mit.edu/).
 
 ### Jour 11 à 15 - 17 octobre -> 20 octobre
 
