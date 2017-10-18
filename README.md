@@ -106,9 +106,15 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 
 ### Jour 11 à 15 - 17 octobre -> 20 octobre
 
-* développement JS :
-  * les bases.
-  * extensions firefox.
+* découverte de JavaScript :
+  * s'habituer à la syntaxe avec [silent teacher](http://silentteacher.toxicode.fr/).
+  * la [doc sur w3schools](https://www.w3schools.com/jsref/default.asp).
+  * la [doc sur MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript).
+  * [JSON et les principaux types de données](http://json.org/json-fr.html).
+* mettre en pratique :
+  * sur [thimble](https://thimble.mozilla.org/fr/).
+  * créer sa [première extension firefox](https://developer.mozilla.org/fr/Add-ons/WebExtensions/Your_first_WebExtension).
+  * réaliser une extension en groupe.
 
 ## Phase 2 : PHP/MySQL (23 octobre -> 1er décembre)
 
