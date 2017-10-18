@@ -104,7 +104,7 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
   * [Hour of code](https://studio.code.org/courses).
   * [Scratch](https://scratch.mit.edu/).
 
-### Jour 11 à 15 - 17 octobre -> 20 octobre
+### Jour 12 à 15 - 17 octobre -> 20 octobre
 
 * découverte de JavaScript :
   * s'habituer à la syntaxe avec [silent teacher](http://silentteacher.toxicode.fr/).
