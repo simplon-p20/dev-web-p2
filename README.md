@@ -115,8 +115,40 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
   * sur [thimble](https://thimble.mozilla.org/fr/).
   * créer sa [première extension firefox](https://developer.mozilla.org/fr/Add-ons/WebExtensions/Your_first_WebExtension).
   * réaliser une extension en groupe.
+* présentation sur le [web storage](http://slides.com/lucytbcz/deck-1/#/) (merci [Lucy](https://github.com/LucyTBCZ)).
 
 ## Phase 2 : PHP/MySQL (23 octobre -> 1er décembre)
+
+### Jour 16 - 23 octobre
+
+* installation de LAMP/MAMP/WAMP.
+* découverte de PHP avec des live codings :
+  * variables.
+  * array.
+  * structures de contrôle.
+  * fonctions.
+  * opérateurs.
+
+### Jour 17 - 24 octobre
+
+* les classes en PHP.
+* découverte du TDD.
+
+### Jour 18 à 20 - 25 octobre -> 27 octobre
+
+* MySQL/CRUD/BREAD : mise en application dans la jarre de vie (second projet fil rouge).
+
+### Jour 21 à 22 - 30 octobre -> 31 octobre
+
+* architecture MVC : découverte et intégration dans la jarre de vie.
+
+### Jour 23 - 1er novembre
+
+** férié **
+
+### Jour 24 à 25 - 2 novembre -> 3 novembre
+
+* suite architecture MVC.
 
 ## Phase 3 : Laravel/Vue.js (4 décembre -> 12 janvier)
 
