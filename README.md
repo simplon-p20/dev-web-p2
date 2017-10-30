@@ -95,11 +95,11 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 * la recette du quatre quarts :
   * définition d'un algorithme, et mise en pratique *à la main* de [l'algorithme d'Euclide](https://github.com/simplon-p20/algo-euclide).
   * démonstration en groupe avec des cartes d'algorithmes de tri :
-    * [Tri stupide](https://fr.wikipedia.org/wiki/Tri_stupide).
-    * [Tri par insertion](https://fr.wikipedia.org/wiki/Tri_par_insertion).
-    * [Tri à bulles](https://fr.wikipedia.org/wiki/Tri_%C3%A0_bulles).
-    * [Tri rapide](https://fr.wikipedia.org/wiki/Tri_rapide).
-    * D'autres algorithmes, et leur comparaison sur [wikipedia](https://fr.wikipedia.org/wiki/Algorithme_de_tri#Comparaison_des_algorithmes).
+    * [tri stupide](https://fr.wikipedia.org/wiki/Tri_stupide).
+    * [tri par insertion](https://fr.wikipedia.org/wiki/Tri_par_insertion).
+    * [tri à bulles](https://fr.wikipedia.org/wiki/Tri_%C3%A0_bulles).
+    * [tri rapide](https://fr.wikipedia.org/wiki/Tri_rapide).
+    * d'autres algorithmes, et leur comparaison sur [wikipedia](https://fr.wikipedia.org/wiki/Algorithme_de_tri#Comparaison_des_algorithmes).
 * formation à l'animation d'atelier :
   * [Hour of code](https://studio.code.org/courses).
   * [Scratch](https://scratch.mit.edu/).
@@ -129,12 +129,16 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
   * fonctions.
   * opérateurs.
 * un site de référence : [php.net](http://php.net/manual/fr/).
+* instant motivation :
+  * [4 important lessons for a successful life](https://www.youtube.com/watch?v=xYZtQUUzdk0).
 
 ### Jour 17 - 24 octobre
 
 * formulaire full stack :
   * validation d'un formulaire de contact.
   * intégration de PHPMailer pour envoyer des mails.
+* instant motivation :
+  * [a valuable lesson for a happier life](https://www.youtube.com/watch?v=SqGRnlXplx0).
 
 ### Jour 18 à 19 - 25 octobre -> 26 octobre
 
@@ -142,15 +146,24 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
   * une histoire de chevaliers : [Lancelot vs Bayard](https://github.com/simplon-p20/php-example-knights).
 * découverte du TDD :
   * [dépôt d'exercices](https://github.com/simplonco/php-challenges).
+* instant motivation :
+  * [a wise lesson in empathy](https://www.youtube.com/watch?v=gYH0D52fXe8).
 
 ### Jour 20 - 27 octobre
 
 * initiation UML.
 * initiation SQL.
+* instant motivation :
+  * [a clever lesson in self worth](https://www.youtube.com/watch?v=XOefJFb0_T8).
+  * [a powerful lesson for a stress free life](https://www.youtube.com/watch?v=bGP9JRhQXak).
 
 ### Jour 21 à 22 - 30 octobre -> 31 octobre
 
-* MySQL/CRUD/BREAD : mise en application dans la jarre de vie (second projet fil rouge).
+* MySQL/CRUD/BREAD :
+  * [exercices "CRUD 1" de Simplon Noyon](https://github.com/simplonco/php-exercises-crud1).
+  * mise en application dans la jarre de vie (second projet fil rouge).
+* instant motivation :
+  * [the 7 habits of highly effective people](https://www.youtube.com/watch?v=ktlTxC4QG8g).
 
 ### Jour 23 - 1er novembre
 
