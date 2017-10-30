@@ -128,19 +128,29 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
   * structures de contrôle.
   * fonctions.
   * opérateurs.
+* un site de référence : [php.net](http://php.net/manual/fr/).
 
 ### Jour 17 - 24 octobre
 
-* les classes en PHP.
-* découverte du TDD.
+* formulaire full stack :
+  * validation d'un formulaire de contact.
+  * intégration de PHPMailer pour envoyer des mails.
 
-### Jour 18 à 20 - 25 octobre -> 27 octobre
+### Jour 18 à 19 - 25 octobre -> 26 octobre
 
-* MySQL/CRUD/BREAD : mise en application dans la jarre de vie (second projet fil rouge).
+* les classes en PHP :
+  * une histoire de chevaliers : [Lancelot vs Bayard](https://github.com/simplon-p20/php-example-knights).
+* découverte du TDD :
+  * [dépôt d'exercices](https://github.com/simplonco/php-challenges).
+
+### Jour 20 - 27 octobre
+
+* initiation UML.
+* initiation SQL.
 
 ### Jour 21 à 22 - 30 octobre -> 31 octobre
 
-* architecture MVC : découverte et intégration dans la jarre de vie.
+* MySQL/CRUD/BREAD : mise en application dans la jarre de vie (second projet fil rouge).
 
 ### Jour 23 - 1er novembre
 
@@ -148,7 +158,7 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 
 ### Jour 24 à 25 - 2 novembre -> 3 novembre
 
-* suite architecture MVC.
+* architecture MVC : découverte et intégration dans la jarre de vie.
 
 ## Phase 3 : Laravel/Vue.js (4 décembre -> 12 janvier)
 
