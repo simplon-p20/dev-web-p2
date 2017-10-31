@@ -163,6 +163,7 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
   * [exercices "CRUD 1" de Simplon Noyon](https://github.com/simplonco/php-exercises-crud1).
   * [exercices "CRUD 2" de Simplon Noyon](https://github.com/simplonco/php-exercises-crud2).
   * mise en application dans le second projet fil rouge : ["ma vie dans un bocal"](https://github.com/simplon-p20/jaroflife).
+* [atelier jQuery](https://github.com/BaptSlv/Atelier-jQuery) (merci [Baptiste](https://github.com/BaptSlv)).
 * instant motivation :
   * [the 7 habits of highly effective people](https://www.youtube.com/watch?v=ktlTxC4QG8g).
 
