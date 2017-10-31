@@ -161,7 +161,8 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 
 * MySQL/CRUD/BREAD :
   * [exercices "CRUD 1" de Simplon Noyon](https://github.com/simplonco/php-exercises-crud1).
-  * mise en application dans la jarre de vie (second projet fil rouge).
+  * [exercices "CRUD 2" de Simplon Noyon](https://github.com/simplonco/php-exercises-crud2).
+  * mise en application dans le second projet fil rouge : ["ma vie dans un bocal"](https://github.com/simplon-p20/jaroflife).
 * instant motivation :
   * [the 7 habits of highly effective people](https://www.youtube.com/watch?v=ktlTxC4QG8g).
 
@@ -171,7 +172,13 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 
 ### Jour 24 à 25 - 2 novembre -> 3 novembre
 
-* architecture MVC : découverte et intégration dans la jarre de vie.
+* architecture MVC :
+  * découverte à partir du cours OCR ["Évoluez vers une architecture PHP professionnelle"](https://openclassrooms.com/courses/evoluez-vers-une-architecture-php-professionnelle/introduction-pourquoi-ce-cours) (les 2 premières itérations).
+  * mise en application : refactoring du projet "ma vie dans un bocal".
+
+### Jour 26 à 30 - 6 novembre -> 10 novembre
+
+* les sessions en PHP, et comment gérer une connexion utilisateur
 
 ## Phase 3 : Laravel/Vue.js (4 décembre -> 12 janvier)
 
