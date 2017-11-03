@@ -176,6 +176,7 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 * architecture MVC :
   * découverte à partir du cours OCR ["Évoluez vers une architecture PHP professionnelle"](https://openclassrooms.com/courses/evoluez-vers-une-architecture-php-professionnelle/introduction-pourquoi-ce-cours) (les 2 premières itérations).
   * mise en application : refactoring du projet "ma vie dans un bocal".
+* [présentation sur l'accessibilité](http://slides.com/benjaminpradon/accessibilite#/) (merci [Benjamin](https://github.com/textSolver34761) et [Anna](https://github.com/Aeonia)).
 
 ### Jour 26 à 30 - 6 novembre -> 10 novembre
 
