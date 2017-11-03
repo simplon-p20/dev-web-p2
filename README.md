@@ -180,7 +180,8 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 
 ### Jour 26 à 30 - 6 novembre -> 10 novembre
 
-* les sessions en PHP, et comment gérer une connexion utilisateur
+* les sessions en PHP, et comment gérer une connexion utilisateur :
+  * découverte à partir d'un [tuto sur le lephpfacile.com](http://www.lephpfacile.com/cours/18-les-sessions).
 
 ## Phase 3 : Laravel/Vue.js (4 décembre -> 12 janvier)
 
