@@ -151,8 +151,12 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 
 ### Jour 20 - 27 octobre
 
-* initiation UML.
-* initiation SQL.
+* initiation UML :
+  * installer et découvrir [starUML](http://staruml.io/) ou [Dia](https://wiki.gnome.org/Apps/Dia/).
+  * "faites moi le [diagramme de use case](http://uml.free.fr/cours/p10.html#uc) d'un site existant".
+* découverte SQL :
+  * en s'amusant avec [SQL Island](http://wwwlgis.informatik.uni-kl.de/extra/game/).
+  * un site de référence : [sql.sh](http://sql.sh/).
 * instant motivation :
   * [a clever lesson in self worth](https://www.youtube.com/watch?v=XOefJFb0_T8).
   * [a powerful lesson for a stress free life](https://www.youtube.com/watch?v=bGP9JRhQXak).
@@ -182,6 +186,18 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 
 * les sessions en PHP, et comment gérer une connexion utilisateur :
   * découverte à partir d'un [tuto sur le lephpfacile.com](http://www.lephpfacile.com/cours/18-les-sessions).
+
+### Jour 31 à 35 - 13 novembre -> 17 novembre
+
+* suite MVC.
+
+### Jour 36 à 40 - 20 novembre -> 24 novembre
+
+* Wordpress.
+
+### Jour 41 à 45 - 27 novembre -> 1er décembre
+
+* gestion d'un panier.
 
 ## Phase 3 : Laravel/Vue.js (4 décembre -> 12 janvier)
 
