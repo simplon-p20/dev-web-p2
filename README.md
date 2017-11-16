@@ -186,10 +186,23 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 
 * les sessions en PHP, et comment gérer une connexion utilisateur :
   * découverte à partir d'un [tuto sur le lephpfacile.com](http://www.lephpfacile.com/cours/18-les-sessions).
+  * mise en application : intégration de comptes utilisateurs dans le projet "ma vie dans un bocal".
 
 ### Jour 31 à 35 - 13 novembre -> 17 novembre
 
-* suite MVC.
+* ateliers d'insertion pro (1 demi journée en demi groupe les 15 et 17 novembre).
+* finalisation sprint 1 du projet "ma vie dans un bocal" :
+  * poursuite des développements : CRUD/BREAD/MVC sur les éléments de todo list et les utilisateurs.
+  * débat sur ce qu'est la finalisation d'un sprint.
+* livraison avec envoi sur github et présentation slides (30 minutes de préparation pendant la formation, 5 minutes de passage : **le chronomètre récompensera la précision**) :
+  * résumé du projet en 1 phrase d'accroche (baseline = proposition de valeur).
+  * diagramme des use cases.
+  * objectifs du sprint (rétro objectifs) sous forme de user stories
+  * fonctionnalités développées.
+  * fonctionnalités à venir.
+  * compétences utilisées.
+  * démonstration (MOOC, tuto, gif, du code et/ou un test utilisateur).
+  * axes d’amélioration.
 
 ### Jour 36 à 40 - 20 novembre -> 24 novembre
 
