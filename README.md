@@ -197,16 +197,23 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 * livraison avec envoi sur github et présentation slides (30 minutes de préparation pendant la formation, 5 minutes de passage : **le chronomètre récompensera la précision**) :
   * résumé du projet en 1 phrase d'accroche (baseline = proposition de valeur).
   * diagramme des use cases.
-  * objectifs du sprint (rétro objectifs) sous forme de user stories
+  * objectifs du sprint (rétro objectifs) sous forme de user stories.
   * fonctionnalités développées.
   * fonctionnalités à venir.
   * compétences utilisées.
   * démonstration (MOOC, tuto, gif, du code et/ou un test utilisateur).
   * axes d’amélioration.
+* live coding "dictée".
+* formation trello :
+  * créer un board "Kanban" avec les colonnes suivantes : ressources, backlog, todo, doing, test, done.
+  * montrer le système d'étiquette, les affectations, la date limite, le système de filtre et la customisation.
 
 ### Jour 36 à 40 - 20 novembre -> 24 novembre
 
-* Wordpress.
+* découverte de Wordpress :
+  * journée de jumelage avec la promo Wordpress : installation, découverte de l'outil.
+  * aller plus loin en groupe : réaliser un projet à 3 avec Wordpress.
+* journée au [Day-Click](http://ledayclick.fr/).
 
 ### Jour 41 à 45 - 27 novembre -> 1er décembre
 
