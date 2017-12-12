@@ -243,6 +243,20 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 * début phase de recette pour Brother Tongue.
 * approfondissement Scrum : mise en place planning poker (suite estimation de la difficulté), le sprint, comment on adapte le cadre Scrum à l'équipe (retrospective), veille sur l'animation d'un daily scum meeting.
 
+### Jour 56 à 60 - 18 décembre -> 22 décembre
+
+* laravel : 
+
+### Jour 61 à 66 - 25 décembre -> 01 Janvier 2018 :bowtie:
+(Vacances du 25 au 1er Janvier)
+
+### Jour 67 à 70 - 02 janvier -> 05 janvier
+
+### Jour 71 à 75 - 08 janvier -> 12 janvier
+
 ## Le stage (15 janvier -> 16 février)
 
 ## Phase 4 : chef d'oeuvre (19 février -> 27 avril)
+
+Ressources:
+ * [emoji markdown](https://gist.github.com/rxaviers/7360908)
