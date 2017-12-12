@@ -217,9 +217,23 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 
 ### Jour 41 à 45 - 27 novembre -> 1er décembre
 
-* gestion d'un panier.
+* gestion d'un panier :
+  * dans la session.
+  * dans la base de données.
 
 ## Phase 3 : Laravel/Vue.js (4 décembre -> 12 janvier)
+
+### Jour 46 à 50 - 4 décembre -> 8 décembre
+
+* installation Laravel :
+    * en lisant [la doc](https://laravel.com/docs/5.5).
+    * en regardant les [vidéos de Laracasts](https://laracasts.com/series/laravel-from-scratch-2017).
+    * en suivant le fichier *command.history* de la [todo list reprise avec Laravel](https://github.com/wasthishelpful/myjaroflife).
+* ateliers découverte sur 4 sujets :
+    * les [contrôleurs](https://laravel.com/docs/5.5/controllers), notamment les [contrôleurs pour les ressources](https://laravel.com/docs/5.5/controllers#resource-controllers).
+    * les [vues](https://laravel.com/docs/5.5/views) avec [Blade](https://laravel.com/docs/5.5/blade).
+    * les base de données, au travers des [migrations](https://laravel.com/docs/5.5/migrations).
+    * les [tests](https://laravel.com/docs/5.5/testing).
 
 ## Le stage (15 janvier -> 16 février)
 
