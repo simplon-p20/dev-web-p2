@@ -245,14 +245,26 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 
 ### Jour 56 à 60 - 18 décembre -> 22 décembre
 
-* laravel : 
+* 1 semaine pour animer 1 mois avec laravel : le projet [animation-month](https://github.com/simplon-p20/animation-month).
+* visite d'entreprises :
+    * Engie Ineo.
+    * Microsoft.
 
 ### Jour 61 à 66 - 25 décembre -> 01 Janvier 2018 :bowtie:
 (Vacances du 25 au 1er Janvier)
 
 ### Jour 67 à 70 - 02 janvier -> 05 janvier
 
+* fashion day : le retour de la semaine du style en une journée. 2*2 groupes pour 2 méthodologies css :
+    * Block-Element-Modifier (**BEM**).
+    * Object-Oriented CSS (**OOCSS**).
+* se (re)familiariser avec la syntaxe JavaScript.
+* découvrir Vue.js.
+
 ### Jour 71 à 75 - 08 janvier -> 12 janvier
+
+* aller plus loin avec Vue.js.
+* derniers mots avant de partir en stage.
 
 ## Le stage (15 janvier -> 16 février)
 
