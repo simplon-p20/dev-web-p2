@@ -255,9 +255,13 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 
 ### Jour 67 à 70 - 02 janvier -> 05 janvier
 
+* penser "composant" : le [design atomique](http://bradfrost.com/blog/post/atomic-web-design/).
 * fashion day : le retour de la semaine du style en une journée. 2*2 groupes pour 2 méthodologies css :
     * Block-Element-Modifier (**BEM**).
     * Object-Oriented CSS (**OOCSS**).
+
+**(note : une excellente synthèse des 2 méthodologies est proposée dans l'article ["Bonnes pratiques en CSS : BEM et OOCSS"](https://www.alsacreations.com/article/lire/1641-bonnes-pratiques-en-css-bem-et-oocss.html) sur Alsacréations)**
+
 * se (re)familiariser avec la syntaxe JavaScript.
 * découvrir Vue.js.
 
