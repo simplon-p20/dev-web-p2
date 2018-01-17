@@ -240,7 +240,7 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 ### Jour 51 à 55 - 11 décembre -> 15 décembre
 
 * laravel : premier projet avec planning poker et user stories sur le [laravel-project](https://github.com/simplon-p20/laravel-project).
-* début phase de recette pour Brother Tongue.
+* début phase de recette pour Brother Tongue (Faire les équipes, Remplir le cahier de recette, réunion pour faire les premier retours).
 * approfondissement Scrum : mise en place planning poker (suite estimation de la difficulté), le sprint, comment on adapte le cadre Scrum à l'équipe (retrospective), veille sur l'animation d'un daily scum meeting.
 
 ### Jour 56 à 60 - 18 décembre -> 22 décembre
@@ -249,6 +249,7 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 * visite d'entreprises :
     * Engie Ineo.
     * Microsoft.
+* Finalisation du Logo par le groupe designers.
 
 ### Jour 61 à 66 - 25 décembre -> 01 Janvier 2018 :bowtie:
 (Vacances du 25 au 1er Janvier)
