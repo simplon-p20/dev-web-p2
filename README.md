@@ -268,7 +268,9 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
     * tutoriel POO JS : [open](https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript/creez-vos-premiers-objets).
     * comparaison des Patterns Javascript : [lien](http://www.ryanatkinson.io/javascript-instantiation-patterns/).
 * découvrir Vue.js.
-    * tutoriel Vidéo (animé par des temps d'arrêt et de questions par le formateur pour que la classe pose ses questions et suive un tutoriel au même rythme) : [laracastLearnVueJS](https://laracasts.com/series/learn-vue-2-step-by-step/).
+    * départ bien expliqué : [lien](https://coligo.io/vuejs-the-basics/) et après la documentation : (officiel)[https://vuejs.org/v2/guide/installation.html].
+    * faire fonctionner un projet vuejs que l'on fork de github : [devtools](https://github.com/vuejs/vue-devtools#vue-devtools).
+    * tutoriel Vidéo (animé par des temps d'arrêt et de questions par le formateur pour que la classe pose ses questions et suive un tutoriel au même rythme) : [laracastLearnVueJS](https://laracasts.com/series/learn-vue-2-step-by-step/) et introduction à [Bulma](https://bulma.io/documentation/components/message/).
 * temps d'autonomie : préparation compétences spécifiques pour les stages et projets autonomes pour avoir le temps de refaire ce qui a été vue durant la première moitié de la formation.
 
 ### Jour 71 à 75 - 08 janvier -> 12 janvier
