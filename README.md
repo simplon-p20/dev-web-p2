@@ -262,12 +262,18 @@ La formation de 7 mois, du 2 octobre 2017 au 27 avril 2018, est composée de 4 p
 
 **(note : une excellente synthèse des 2 méthodologies est proposée dans l'article ["Bonnes pratiques en CSS : BEM et OOCSS"](https://www.alsacreations.com/article/lire/1641-bonnes-pratiques-en-css-bem-et-oocss.html) sur Alsacréations)**
 
-* se (re)familiariser avec la syntaxe JavaScript.
+* se (re)familiariser avec la syntaxe JavaScript à l'aide d'un jeu.
+    * code pour ramasser de l'or : [jsrobot](https://lab.reaal.me/jsrobot/#).
+    * tutoriel POO JS : [open](https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript/creez-vos-premiers-objets).
+    * comparaison des Patterns Javascript : [lien](http://www.ryanatkinson.io/javascript-instantiation-patterns/).
 * découvrir Vue.js.
+    * tutoriel Vidéo (animé par des temps d'arrêt et de questions par le formateur pour que la classe pose ses questions et suive un tutoriel au même rythme) : [laracastLearnVueJS](https://laracasts.com/series/learn-vue-2-step-by-step/).
+* temps d'autonomie : préparation compétences spécifiques pour les stages et projets autonomes pour avoir le temps de refaire ce qui a été vue durant la première moitié de la formation.
 
 ### Jour 71 à 75 - 08 janvier -> 12 janvier
 
-* aller plus loin avec Vue.js.
+* poursuite du temps d'autonomie à la demande des apprenant.e.s.
+* retro sur la première moitié de formation.
 * derniers mots avant de partir en stage.
 
 ## Le stage (15 janvier -> 16 février)
