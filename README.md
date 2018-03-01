@@ -288,23 +288,36 @@ Ressources:
  
 ### Jour 76 à 80 - 19 février -> 23 février
 
-* XXX
-* XXX
+* retour en formation : présentation de ce qu'on a fait pendant la période de stage.
+* organisation de la dernière phase, en alternance une semaine sur 2 :
+  * le projet chef d'oeuvre en 2 étapes :
+    * PHP natif.
+    * framework ou spécialisation.
+  * le projet client :
+    * groupes imposés.
+    * sujet au choix parmi les projets proposés.
 
 ### Jour 81 à 85 - 26 février -> 02 mars
 
-* XXX
-* XXX
+* semaine chef d'oeuvre, sprint 0 (phase de préparation) :
+  * à livrer pour le lundi 26 : lien GitHub du projet.
+		* sur le GitHub du projet :
+    * readme (pour les liens).
+		  * dossier /documentation/ (pour les documents).
+			 * maquettes.
+			 * slide de présentation.
+			 * use case diagram.
+			 * class diagram.
+			 * lots fonctionnels priorisés.
+			 * users stories réparties par lots fonctionnels.
 
 ### Jour 86 à 90 - 05 mars -> 09 mars
 
-* XXX
-* XXX
+* semaine projet client.
 
 ### Jour 91 à 95 - 12 mars -> 16 mars
 
-* XXX
-* XXX
+* semaine chef d'oeuvre, sprint 1.
 
 ### Jour 96 à 100 - 19 mars -> 23 mars
 
