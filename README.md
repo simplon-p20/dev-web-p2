@@ -313,7 +313,7 @@ Ressources:
 
 ### Jour 86 à 90 - 05 mars -> 09 mars
 
-* semaine projet client.
+* semaine projet client, sprint 0.
 
 ### Jour 91 à 95 - 12 mars -> 16 mars
 
@@ -321,30 +321,24 @@ Ressources:
 
 ### Jour 96 à 100 - 19 mars -> 23 mars
 
-* XXX
-* XXX
+* semaine projet client, sprint 1.
 
 ### Jour 101 à 105 - 26 mars -> 30 mars
 
-* XXX
-* XXX
+* semaine chef d'oeuvre, sprint 2.
 
 ### Jour 106 à 110 - 01 avril -> 06 avril
 
-* XXX
-* XXX
+* semaine chef d'oeuvre, sprint 3.
 
 ### Jour 111 à 115 - 09 avril -> 13 avril
 
-* XXX
-* XXX
+* semaine projet client, sprint 2.
 
 ### Jour 116 à 120 - 16 avril -> 20 avril
 
-* XXX
-* XXX
+* semaine projet client, sprint 3.
 
 ### Jour 121 à 125 - 23 avril -> 27 avril
 
-* XXX
-* XXX
+* dernière semaine : fin de la formation :)
